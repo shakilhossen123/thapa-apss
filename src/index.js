@@ -5,7 +5,7 @@ import './index.css';
 
 
 ReactDOM.render(
-  <>cd
+  <>
 
     <h1 className='hading-style'>List of top 5 Netflix Series in 2020</h1>
 

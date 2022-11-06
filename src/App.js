@@ -1,13 +1,13 @@
 import React from 'react'
-import Home from './components/home'
+
 
 const App = () => {
   return (
     <>
-      <Home />
+       <h1> Welcome to <samp>Slot machine game</samp> </h1>
     </>
   )
 }
 
-export default App
+export default App;
 
